@@ -1,0 +1,8 @@
+Interacting with the Main JavaScript Objects
+-window object - interface between JavaScript and the DOM
+-document property - gives access to the DOM root - <html> root
+-document exposes:
+    getElementById
+    getElementByName
+    getElementByTagName
+    getElementByClassName
